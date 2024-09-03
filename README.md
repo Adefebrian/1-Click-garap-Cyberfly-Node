@@ -22,4 +22,3 @@ source : https://dev.cyberfly.io/
 ## Credits
 
 This script was created by Brian. For more info, visit: [https://x.com/brianeedsleep](https://x.com/brianeedsleep)
-```
