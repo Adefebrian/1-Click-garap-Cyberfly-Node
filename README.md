@@ -26,7 +26,7 @@ For more details, visit: [https://dev.cyberfly.io/](https://dev.cyberfly.io/)
 
 - **To get the container ID:** Execute `docker ps` to list all running containers.
 
-- **To access the Node dashboard:** Open your browser and navigate to `http://<your_ip>:31000`. For example: `http://666.999.69.69:31000/map`.
+- **To access the Node dashboard:** Open your browser and navigate to `http://<your_ip>:31000`. For example: `http://666.999.69.69:31000`.
 
 ## Credits
 
