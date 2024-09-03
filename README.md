@@ -14,7 +14,7 @@ This script allows you to set up a Cyberfly Node with a single command. It inclu
 To install and run the Cyberfly Node in one command, execute the following:
 
 ```bash
-wget https://github.com/Adefebrian/1-Click-garap-Cyberfly-Node/blob/main/cyberfly.sh -O cyberfly.sh && chmod +x cyberfly.sh && sudo ./cyberfly.sh
+wget https://github.com/Adefebrian/1-Click-garap-Cyberfly-Node/blob/main/cyberfly.sh -O chmod +x cyberfly.sh && sudo ./cyberfly.sh
 ```
 
 source : https://dev.cyberfly.io/
